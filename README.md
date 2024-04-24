@@ -1,4 +1,8 @@
-<h1 align="center">Programmer</h1>
 
 <!-- <img src="src/img/background_cat_macchiato.png"> -->
-<img src="src/img/cat_macchiato.jpeg">
+<!-- <img src="src/img/cat_macchiato.jpeg"> -->
+
+<div align="center">
+
+![overViewProfile](/src/img/github_profile_overview.gif)
+</div>
